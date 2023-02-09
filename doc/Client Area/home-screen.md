@@ -1,1 +1,21 @@
+# Home screen
 
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
+
+##### The end customer, after logging in to his own customer panel, has access to the following information and options:
+
+#### 1. <span class="HwtZe" lang="en"><span class="jCAhz ChMk0b C1N51c"><span class="ryNqvb">The Manage tab  
+</span></span></span>
+
+- Navigation bar and status information on each card.
+- Button to go to the site specified during the registration of the service (if it was specified)
+- Button to go to HestiaCP (if button setting is active)
+- Basic hosting service data
+
+[![image-1666615596175.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666615596175.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666615596175.png)
+
+#### 2. The Resource Usage tab
+
+- Displays service usage statistics
+
+[![image-1666615674411.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666615674411.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666615674411.png)

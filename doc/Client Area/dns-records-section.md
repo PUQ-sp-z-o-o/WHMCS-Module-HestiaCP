@@ -1,0 +1,58 @@
+# DNS Records section
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
+
+The end client, having entered the DNS Records section of the client panel, has access to the following information and parameters:
+
+- Navigation bar and status information on each card.
+- Button to go to add a new DNS record
+- Cards with information about the client's DNS records  
+    
+    - Record
+    - DNS record status in the system HestiaCP is suspended or not suspended (Active)[ ![image-1666617136198.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666617136198.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666617136198.png)
+    - Value
+    - Type
+    - TTL
+    - Time and date the entry was created
+    - Buttons for managing DNS record  
+        
+        - Edit
+        - Suspend / Unsuspend
+        - Delete
+
+[![image-1666687232291.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666687232291.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666687232291.png)
+
+#### Adding a new DNS record
+
+After clicking on the button in the pop-up window, you must enter the record, type, value that you want to add.
+
+[![image-1666650461502.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666650461502.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666650461502.png)
+
+#### DNS record editing
+
+After clicking on the button, the following configuration is available in the pop-up window:
+
+- Record
+- Type
+- Value
+- TTL
+
+[![image-1666651008228.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666651008228.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666651008228.png)
+
+#### DNS record suspend
+
+After clicking on the button, confirmation of the action is available in a pop-up window.
+
+[![image-1666687336053.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666687336053.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666687336053.png)
+
+#### DNS record unsuspend 
+
+After clicking on the button, confirmation of the action is available in a pop-up window.
+
+[![image-1666687351304.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666687351304.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666687351304.png)
+
+#### DNS record delete
+
+After clicking on the button, confirmation of the action is available in a pop-up window.
+
+[![image-1666687368481.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666687368481.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666687368481.png)
