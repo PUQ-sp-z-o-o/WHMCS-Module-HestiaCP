@@ -2,7 +2,7 @@
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
-##### Create an email template for customer notifications.
+### Create an email template for customer notifications.
 
 ```
 System Settings->Email Templates->Create New Email Template
@@ -11,7 +11,9 @@ System Settings->Email Templates->Create New Email Template
 - **Email Type:** Product/service
 - **Unique Name:** puqHestiaCP e-Mail Account is ready
 
-[![image-1666612442813.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666612442813.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666612442813.png)**Subject:**
+[![image-1666612442813.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666612442813.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666612442813.png)
+
+**Subject:**
 
 ```
 e-Mail Account {$email} is ready
