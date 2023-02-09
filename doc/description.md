@@ -2,7 +2,7 @@
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
-##### The module, fully installed and correctly implemented in the system, offers the following functionalities.
+### The module, fully installed and correctly implemented in the system, offers the following functionalities.
 
 Module Functions:
 
@@ -63,9 +63,9 @@ Available options in the client panel:
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +</p>
+>WHMCS minimal version: 8 +
 
-<p class="callout warning">HestiaCP minimal version: 1 +</p>
+>HestiaCP minimal version: 1 +
 
 [![image-1666694013752.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694013752.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694013752.png)
 
