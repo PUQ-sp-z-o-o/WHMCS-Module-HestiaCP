@@ -1,7 +1,7 @@
 # Setup guide: Install HestiaCP on server
 
 # ![Logo.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/logo.png)
-#Hestia Control Panel
+# Hestia Control Panel
 
 ### **Step 1: Make sure that your server is running a supported operating system (amd64 or arm64):**
 
