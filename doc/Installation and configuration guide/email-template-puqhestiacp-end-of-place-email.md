@@ -1,0 +1,39 @@
+# Email Template (puqHestiaCP end of place email)
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Create an email template for customer notifications.
+
+```
+System Settings->Email Templates->Create New Email Template
+```
+
+- **Email Type:** Product/service
+
+**Unique Name:** puqHestiaCP end of place email
+
+[![image-1666610597659.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666610597659.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666610597659.png) **Subject:**
+
+```
+Space in your hosting account {$user} is running out
+```
+
+**Body:**
+
+```
+Dear {$client_name},
+
+
+You are running out of free space in the Product/Service: {$service_product_name}.
+
+You have already used {$used_spase_procentes} percent of space.
+
+Total free space used: {$used_spase}
+
+Maximum allowable space up to: {$disk_quota}
+
+
+{$signature}
+```
+
+[![image-1666611293210.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666611293210.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666611293210.png)

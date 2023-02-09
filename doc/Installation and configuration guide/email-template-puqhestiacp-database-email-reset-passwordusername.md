@@ -1,0 +1,38 @@
+# Email Template (puqHestiaCP Database email reset password/username)
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Create an email template for customer notifications.
+
+```
+System Settings->Email Templates->Create New Email Template
+```
+
+- **Email Type:** Product/service
+
+**Unique Name:** puqHestiaCP Database email reset password/username
+
+[![image-1666611454109.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666611454109.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666611454109.png)
+
+**Subject:**
+
+```
+On Database {$dbname} change password or username
+```
+
+**Body:**
+
+```
+Dear {$client_name},
+
+
+Password or Username of Database has been change. Below is the user logging data.
+
+Database Name: {$dbname}
+Database Username: {$dbusername}
+Password: {$dbpassword}
+
+{$signature}
+```
+
+[![image-1666611579689.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666611579689.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666611579689.png)

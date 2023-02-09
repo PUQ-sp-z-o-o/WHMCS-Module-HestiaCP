@@ -1,0 +1,35 @@
+# Email Template (puqHestiaCP Reset service password)
+
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
+
+##### Create an email template for customer notifications.
+
+```
+System Settings->Email Templates->Create New Email Template
+```
+
+- **Email Type:** Product/service
+- **Unique Name:** puqHestiaCP Reset service password
+
+[![image-1666613088744.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666613088744.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666613088744.png)**Subject:**
+
+```
+For user {$user} on Product/Service: {$service_product_name} password has been change
+```
+
+**Body:**
+
+```
+Dear {$client_name},
+
+
+You change password for user {$user} on Product/Service: {$service_product_name}. Below is the user logging data.
+
+User: {$user}
+New password: {$password}
+
+
+{$signature}
+```
+
+[![image-1666613180530.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666613180530.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666613180530.png)
