@@ -2,14 +2,15 @@
 
 #####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
-##### Here is the data provided when configuring the product for the service administrator in WHMCS.
+### Here is the data provided when configuring the product for the service administrator in WHMCS.
 
 [![image-1672999068611.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1672999068611.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1672999068611.png)
 
 - **License key:** A pre-purchased license key for the **"PUQ HestiaCP"** module. For the module to work correctly, the key must be active
 - **Chose pakage on server:** The list of packages is pulled from the server. Will be used when the **"Use the package parameters"** option is not selected. And also if for some reason it will not be possible to create a custom package.  
-    <p class="callout warning">**Attention!** To deploy a custom package, you must set the interface language for the account administrator to English.</p>
-- **Use the package parameters:** The option allows you to make a choice of settings. Whether you want to use the packages already configured on the server or upload a customized custom package. Use the package parameters entered below, and create the package if it does not exist on the server. And if there is a package, then change its values to those entered below. <p class="callout info">The module works as follows: It can use existing packages on the server or create new packages on the server with the HestiaCP panel. If you are using existing packages on the server, disable this option. If you want the module to create packages on its own - enable this option to create a package with the parameters given below.</p>
+>**Attention!** To deploy a custom package, you must set the interface language for the account administrator to English.
+- **Use the package parameters:** The option allows you to make a choice of settings. Whether you want to use the packages already configured on the server or upload a customized custom package. Use the package parameters entered below, and create the package if it does not exist on the server. And if there is a package, then change its values to those entered below. 
+>The module works as follows: It can use existing packages on the server or create new packages on the server with the HestiaCP panel. If you are using existing packages on the server, disable this option. If you want the module to create packages on its own - enable this option to create a package with the parameters given below.
 - **Filemanager settings:** File manager settings  
     
     - **Hostname:** The hostname of the file manager
@@ -75,12 +76,12 @@
         </span>
     - <span class="optional">**End of place email email template:** When the space in the account is already running out</span>
 
-#### <span style="color: #993300;">**<span class="optional">Features of the service package deployment on the HestiaCP server</span>**</span>
-
-<span style="color: #993300;">**<span class="optional">If the "Use the package parameters" option is enabled The package settings in this section will be used to deploy to the server, while the "Name pakage" field will be used as the package name. If the "Use the package parameters" option is disabled, the "Chose pakage on server" field will be used as the package name.</span>**</span>
-
-<span style="color: #993300;">**<span class="optional">After saving the settings, the package will not be deployed. Package deployment will start when a new service user is created.</span>**</span>
-
-<span style="color: #993300;">**<span class="optional">It is also possible to deploy manually the package on the server. To do this, you need to enter in the admin panel and any client that has this service and call the "Change Package" module function.</span>**</span>
-
-<span style="color: #993300;">**<span class="optional">If for some reason it is not possible to deploy a custom package on the server, in this case, the already existing package from the server, previously selected in the "Chose package on server" option, will be used.</span>**</span>
+> ### Features of the service package deployment on the HestiaCP server
+>
+>If the "Use the package parameters" option is enabled The package settings in this section will be used to deploy to the server, while the "Name pakage" field will be used as the package name. If the "Use the package parameters" option is disabled, the "Chose pakage on server" field will be used as the package name.
+>
+>After saving the settings, the package will not be deployed. Package deployment will start when a new service user is created.
+>
+>It is also possible to deploy manually the package on the server. To do this, you need to enter in the admin panel and any client that has this service and call the "Change Package" module function.
+>
+>If for some reason it is not possible to deploy a custom package on the server, in this case, the already existing package from the server, previously selected in the "Chose package on server" option, will be used.
