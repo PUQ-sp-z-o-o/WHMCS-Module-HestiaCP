@@ -1,18 +1,22 @@
 # WHMCS-Module-HestiaCP
-Module for WHMCS system. To manage the HestiaCP hosting panel as a product. (Shared web hosting service)
+The module is intended as an opportunity for IT companies to expand their customer offering by offering paid Hosting accounts. After installation, the module will fully manage the creation, editing and blocking of Hosting server accounts based on HestiaCP, as well as interact with the WHMCS billing system, exchanging data necessary for settlements with clients, activation or blocking of services.
+
+Assumptions: The company uses WHMCS and owns or can install servers running HestiaCP. Servers with HestiaCP are required to provide the Hosting service (user management). WHMCS is required to manage the Hosting service.
 # Description
 
-#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [Forum](https://forum.puqcloud.com/viewforum.php?f=12)
+#####  [Order now](https://panel.puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
-##### The module, fully installed and correctly implemented in the system, offers the following functionalities.
+### The module, fully installed and correctly implemented in the system, offers the following functionalities.
 
 Module Functions:
 
 - Auto create and deploy Hosting account
 - Suspend/Unsuspend/Terminate/Change Package/Change Password
+- Restricting the choice of Backend Template in the Client Area for each of the packages
 - Use only HestiaCP
 - Module supports multilingualism
 - User email notification
+- Good looking and works with four proven WHMCS Themes templates: Six, Twenty-One, Lagom 2, WHMCS-HostCloud
 
 Available options in the admin panel:
 
@@ -63,18 +67,20 @@ Available options in the client panel:
 
 - - - - - -
 
-<p class="callout warning">WHMCS minimal version: 8 +</p>
+>WHMCS minimal version: 8 +
 
-<p class="callout warning">HestiaCP minimal version: 1 +</p>
+>HestiaCP minimal version: 1 +
 
 [![image-1666694013752.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694013752.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694013752.png)
 
 [![image-1666694069661.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694069661.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694069661.png)
 
-[![image-1666694371891.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694371891.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694371891.png)
+[![image-1670330197207.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1670330197207.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1670330197207.png)
+
+[![image-1670332241909.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1670332241909.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1670332241909.png)
 
 [![image-1666694265342.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694265342.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694265342.png)
 
 [![image-1666705720445.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666705720445.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666705720445.png)
 
-[![image-1666705765706.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666705765706.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666705765706.png)
+[![image-1672998360235.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1672998360235.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1672998360235.png)
