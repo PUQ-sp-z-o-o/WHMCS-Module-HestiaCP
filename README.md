@@ -62,6 +62,7 @@ Available options in the client panel:
 As an addition to the module and ease of use, a file manager is attached, which we can install as a regular WEB application.
 [![image-1666694265342.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694265342.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694265342.png)
 <center>Safe File Manager</center>
+
 - - - - - -
 
 >WHMCS minimal version: 8 +
