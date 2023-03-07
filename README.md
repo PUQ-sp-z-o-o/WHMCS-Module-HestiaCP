@@ -59,48 +59,22 @@ Available options in the client panel:
 - Handy job time generator
 - Backup management. Adding, deleting, restoration
 
-As an addition to the module and ease of use, a file manager is attached, which we can install as a regular WEB application.
-[![image-1666694265342.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694265342.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694265342.png)
-<center>Safe File Manager</center>
-
 - - - - - -
 
 >WHMCS minimal version: 8 +
 
 >HestiaCP minimal version: 1 +
 
-[![image-1666694013752.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694013752.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694013752.png)
-<center>Client Area Display (Standard Twenty-One Theme)</center>
+![image](https://user-images.githubusercontent.com/81689153/223426804-5d0f2db5-4265-406a-b9bc-032e9a557b3a.png)
 
-- - - - - -
+![image](https://user-images.githubusercontent.com/81689153/223426836-6f2223bf-5f35-49d3-9105-042ea60be013.png)
 
-[![image-1666694069661.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694069661.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694069661.png)
-<center>Disk Usage Display (Standard Twenty-One Theme)</center>
+![image](https://user-images.githubusercontent.com/81689153/223426868-ac69437a-ec0b-4d4b-9d18-9023967422cc.png)
 
-- - - - - -
+![image](https://user-images.githubusercontent.com/81689153/223426897-8f41c000-f2c8-4441-9ce7-18c1d6674716.png)
 
-[![image-1670330197207.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1670330197207.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1670330197207.png)
-<center>Client side PHP version selection (Standard Twenty-One theme)</center>
+![image](https://user-images.githubusercontent.com/81689153/223426947-f303e228-0452-47b0-aba7-f24ec3aee2f6.png)
 
-- - - - - -
+![image](https://user-images.githubusercontent.com/81689153/223427394-4dcef721-141a-46d7-b9f6-20eda4a6f53e.png)
 
-[![image-1670332241909.png](https://doc.puq.info/uploads/images/gallery/2022-12/scaled-1680-/image-1670332241909.png)](https://doc.puq.info/uploads/images/gallery/2022-12/image-1670332241909.png)
-<center>Client side PHP version selection (Standard Twenty-One theme)</center>
-
-- - - - - -
-
-[![image-1666694265342.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666694265342.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666694265342.png)
-<center>Safe File Manager</center>
-
-- - - - - -
-
-[![image-1666705720445.png](https://doc.puq.info/uploads/images/gallery/2022-10/scaled-1680-/image-1666705720445.png)](https://doc.puq.info/uploads/images/gallery/2022-10/image-1666705720445.png)
-<center>Service Administrator Dashboard</center>
-
-- - - - - -
-
-[![image-1672998360235.png](https://doc.puq.info/uploads/images/gallery/2023-01/scaled-1680-/image-1672998360235.png)](https://doc.puq.info/uploads/images/gallery/2023-01/image-1672998360235.png)
-
-<center>Service configuration</center>
-
-- - - - - -
+![image](https://user-images.githubusercontent.com/81689153/223427421-959e6696-c382-4e00-82ba-5541614eca39.png)
