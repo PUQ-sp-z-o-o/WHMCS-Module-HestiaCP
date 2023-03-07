@@ -2,6 +2,16 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.6 Released 07-03-2023
+ 
+1. Nameserver is now displayed from the package settings, and not from the global WHMCS settings, as it was before
+2. Added an explicit, full link to the server panel
+3. Added ability to set username prefix
+4. Allowed to disable e-mail distribution, for certain actions
+5. Added a function to force the generation of a username
+6. Added icons and some descriptions
+7. Minor bugs fixed
+
 ### v1.5.1 Released 08-02-2023
 
 1. Fix some bugs in one of the deployment options, the user was created redundantly
