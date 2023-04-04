@@ -2,6 +2,22 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.8 Released 04-04-2023
+1. Fix some bugs
+2. The way to deploy a custom package has been recoding
+3. Now when refreshing the home page, the user will see the actual amount of used account space
+4. The appearance of the main page has been redesigned, now the information looks organic, the file manager is available from the main page
+
+- - - - - -
+
+### v1.7 Released 02-04-2023
+1. Fix some bugs
+2. Added icons and some descriptions
+3. The way to deploy a custom package has been recoding
+4. Now we use simple AJAX requests to speed up page loading
+
+- - - - - -
+
 ### v1.6 Released 07-03-2023
  
 1. Nameserver is now displayed from the package settings, and not from the global WHMCS settings, as it was before
@@ -11,6 +27,8 @@
 5. Added a function to force the generation of a username
 6. Added icons and some descriptions
 7. Minor bugs fixed
+
+- - - - - -
 
 ### v1.5.1 Released 08-02-2023
 
