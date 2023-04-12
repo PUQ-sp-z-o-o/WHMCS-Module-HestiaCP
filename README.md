@@ -65,16 +65,17 @@ Available options in the client panel:
 
 >HestiaCP minimal version: 1 +
 
-![image](https://user-images.githubusercontent.com/81689153/223426804-5d0f2db5-4265-406a-b9bc-032e9a557b3a.png)
+![image](https://user-images.githubusercontent.com/81689153/231414590-450abe33-a200-424d-899f-644fcbe170aa.png)
 
-![image](https://user-images.githubusercontent.com/81689153/223426836-6f2223bf-5f35-49d3-9105-042ea60be013.png)
+![image](https://user-images.githubusercontent.com/81689153/231414624-f7978a61-79f8-4fb1-aab0-423b709136a1.png)
 
-![image](https://user-images.githubusercontent.com/81689153/223426868-ac69437a-ec0b-4d4b-9d18-9023967422cc.png)
+![image](https://user-images.githubusercontent.com/81689153/231414660-2cbdb06c-fdba-40f2-8344-4f0fe6e4c34d.png)
 
-![image](https://user-images.githubusercontent.com/81689153/223426897-8f41c000-f2c8-4441-9ce7-18c1d6674716.png)
+![image](https://user-images.githubusercontent.com/81689153/231414690-7f10bf5f-04df-4796-a590-b8cd0e47f3ff.png)
 
-![image](https://user-images.githubusercontent.com/81689153/223426947-f303e228-0452-47b0-aba7-f24ec3aee2f6.png)
+![image](https://user-images.githubusercontent.com/81689153/231414782-1c670577-35b3-4772-a27c-8caa6eb59c05.png)
 
-![image](https://user-images.githubusercontent.com/81689153/223427394-4dcef721-141a-46d7-b9f6-20eda4a6f53e.png)
+![image](https://user-images.githubusercontent.com/81689153/231414834-be82d1da-d367-41a4-8f55-394bb26bb681.png)
 
-![image](https://user-images.githubusercontent.com/81689153/223427421-959e6696-c382-4e00-82ba-5541614eca39.png)
+![image](https://user-images.githubusercontent.com/81689153/231414880-6c7e11dd-989c-477d-885e-b4b22bc9726c.png)
+
