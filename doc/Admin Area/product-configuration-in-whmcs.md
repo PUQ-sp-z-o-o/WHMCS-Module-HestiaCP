@@ -4,7 +4,7 @@
 
 ### Here is the data provided when configuring the product for the service administrator in WHMCS.
 
-![image](https://user-images.githubusercontent.com/81689153/223441688-a30c6f64-8237-4dee-96b7-3ba79ee60697.png)
+![image](https://user-images.githubusercontent.com/81689153/231419520-e0c7fe5b-eb68-4f2d-bd00-57fae6ec938b.png)
 
 - **License key:** A pre-purchased license key for the **"PUQ HestiaCP"** module. For the module to work correctly, the key must be active
 - **Chose pakage on server:** The list of packages is pulled from the server. Will be used when the **"Use the package parameters"** option is not selected. And also if for some reason it will not be possible to create a custom package.  
