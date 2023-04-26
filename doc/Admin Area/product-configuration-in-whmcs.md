@@ -4,7 +4,7 @@
 
 ### Here is the data provided when configuring the product for the service administrator in WHMCS.
 
-![image](https://user-images.githubusercontent.com/81689153/231419520-e0c7fe5b-eb68-4f2d-bd00-57fae6ec938b.png)
+![image](https://user-images.githubusercontent.com/81689153/234537994-108c297a-d84e-4955-9c3c-6586f5d615f4.png)
 
 - **License key:** A pre-purchased license key for the **"PUQ HestiaCP"** module. For the module to work correctly, the key must be active
 - **Chose pakage on server:** The list of packages is pulled from the server. Will be used when the **"Use the package parameters"** option is not selected. And also if for some reason it will not be possible to create a custom package.  
@@ -12,10 +12,8 @@
 - **Use the package parameters:** The option allows you to make a choice of settings. Whether you want to use the packages already configured on the server or upload a customized custom package. Use the package parameters entered below, and create the package if it does not exist on the server. And if there is a package, then change its values to those entered below. 
 >The module works as follows: It can use existing packages on the server or create new packages on the server with the HestiaCP panel. If you are using existing packages on the server, disable this option. If you want the module to create packages on its own - enable this option to create a package with the parameters given below.
 - **Filemanager settings:** File manager settings  
-    
     - **Hostname:** The hostname of the file manager
 - **Pakage configuration:** Setting up a custom package  
-    
     - **Name pakage:** The package name entered will be used to configure the custom package if the option is selected **"Use the package parameters"**
     - **Custom username:** A new name will be generated each time the create account function is called.
 The custom name will be generated as follows, where PREFIX_ will only be present if the field is set: *PREFIX_[*random_x4*]_[*user_id*]_[*service_id*]*
@@ -36,28 +34,31 @@ The custom name will be generated as follows, where PREFIX_ will only be present
     - **Cron Jobs:** The number of cron jobs that are allowed for the user
 - **Backups:** Backup configuration in custom package 
     - **Backups:** The number of backup copies that are allowed for the user
+    - **Allow custom download backups:** this setting activates a mechanism that will allow you to download backups directly from your WHMCS account, using the "Download" button
+    >In order for the user to be able to download a backup using this method, it is necessary to add the folder where the backups are stored to the open_basedir in the configuration of your PHP template. By default, the folder where backups are stored is not included, and you are likely to receive an error: Got error 'PHP message: PHP Warning: finfo_file(): open_basedir restriction in effect. File(/backup/{custom_name}.tar) is not within the allowed path(s)... To give PHP access to the backup folder, you need to create a custom template by copying your preferred one, and then add the desired directory to the php_admin_value[open_basedir] variable.
+    - **Backup directory:** in this setting, you must write the absolute path of the folder in which backups are stored on the server
+    - **Custom script name:** if you want to change the name of the script, you can enter the name here
+    - **Path for deploying the download script:** path to deploy the download script to the server
 - **Mail Pakage configuration:** Mail settings section, custom package 
     - **Mail Domains:** Number of email domains allowed for a user
     - **Mail Accounts:** Number of email accounts per email domain allowed for a user
+    - **Rate limit:** Email limit per hour
 - **Web templates:** Choosing a template Web Template APACHE2. The list of templates is loaded from the server
 - **Web templates backend:** Choosing a Backend Template PHP-FPM. The list of templates is loaded from the server
 - **Proxy templates:** Choosing a Proxy Template NGINX. The list of templates is loaded from the server  
-    
 - **Dns templates:** Choosing a DNS Template BIND9. The list of templates is loaded from the server  
-    
 - **Client configuration:** The permissions that will be active in the client area and more  
-    
     - **Button Filemanager:** Show/hide file manager button in client area  
     - **Button phpPgAdmin:** Show/hide phpPgAdmin button in client area
     - **Button phpMyAdmin:** Show/hide phpMyAdmin button in client area  
     - **Button & link Go to HestiaCP:** Show/hide "Go to HestiaCP" button and full link in client area  
     - **Opening the file manager in a new tab:** If this is enabled, the file manager will open in a new window
     - **Show username & password for server:** If this is enabled, the user will see information about his password and username
+    - **Allow user to independently update disk usage information:** If this feature is enabled, it will allow the user to update the free space of the server upon request
     - **Used space limit notification:** Setting the limit, when exceeded, a notification will be sent to the user that the place is running out. The value can be entered from 10 to 99. When 0 do not send notification to users. Default is 99  
     - **Print module logs:** Enable or disable printing of module logs  
     - **Print activity logs**: Enable or disable printing activity logs of module
 - **Email configuration:** Setting up email templates. Selection of pre-prepared templates to inform the user about some actions  
-    
     - **Reset service password email template:** When resetting the service password  
     - **FTP User is ready email template:** When a new FTP user was created  
     - **Reset FTP password email template:** When the FTP user password was changed  
