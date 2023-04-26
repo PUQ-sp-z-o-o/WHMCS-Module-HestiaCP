@@ -2,6 +2,15 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.9 Released 25-04-2023
+1. Backup download mechanism is now available (requires additional configuration on the server)
+2. Improved free space update mechanism
+3. Optimized interface, optimized work with AJAX
+4. Improved security
+5. Fix some bugs
+
+- - - - - -
+
 ### v1.8.5 Released 11-04-2023
 1. Revised some strings of translations into other languages, added translations
 2. It is now possible to disable free space updates at the user's request. Note, if you turn off the update of free space at the request of the user, the free space bar will also be disabled, and the update will occur as usual and the data will be available, as usual, in the Resource Usage tab
