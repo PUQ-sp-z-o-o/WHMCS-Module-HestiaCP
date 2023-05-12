@@ -2,6 +2,12 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.9.1 Released 12-05-2023
+1. Optimized
+2. Fixed a bug that prevented the creation of a new user when the prefix is empty
+
+- - - - - -
+
 ### v1.9 Released 25-04-2023
 1. Backup download mechanism is now available (requires additional configuration on the server)
 2. Improved free space update mechanism
