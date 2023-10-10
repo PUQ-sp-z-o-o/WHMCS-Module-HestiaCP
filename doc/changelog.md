@@ -2,6 +2,15 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.9.5 Released 10-10-2023
+1. Supported WHMCS v8.8.0
+2. Supported HestiaCP v1.8.8
+3. Translations added/updated (Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)
+4. Optimized
+5. Fix some bugs
+
+- - - - - -
+
 ### v1.9.2 Released 27-06-2023
 1. Optimized
 2. Fix some bugs
