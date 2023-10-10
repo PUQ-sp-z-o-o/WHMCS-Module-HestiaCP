@@ -14,7 +14,7 @@ Module Functions:
 - Suspend/Unsuspend/Terminate/Change Package/Change Password
 - Restricting the choice of Backend Template in the Client Area for each of the packages
 - Use only HestiaCP
-- Module supports multilingualism
+- Module supports multilingualism **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
 - User email notification
 - Good looking and works with four proven WHMCS Themes templates: Six, Twenty-One, Lagom 2, WHMCS-HostCloud
 
