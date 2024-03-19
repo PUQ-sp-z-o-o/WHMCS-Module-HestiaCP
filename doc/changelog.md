@@ -2,6 +2,25 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.9.6 Released 19-03-2024
+1. Added the ability to go to the document root of each domain by clicking on the file manager on the domains card
+2. Removed the ability to connect more than two NS servers when creating a DNS zone
+3. Now when we have a connected WWW alias, the add alias button is not displayed, but when it is not there the button is displayed
+4. In the email domains section, a button has been added that opens a window with information about mail configuration
+5. Now, when a client is in one of the sections that requires additional description for clarity, the client area has a description in the header
+6. All cards of all positions have been redesigned to reduce the space they occupy on the page
+7. On the main page in information about the service, some fields have been added and removed
+8. Redesigned the way FTP accounts are displayed and managed, a button has been added to quickly go to the domain account section
+9. Added a button to quickly go to the email section of a domain from the WEB section if the email domain exists
+10. Added processing of scenarios when it is necessary to provide the service of only electronic processing almost or only DNS processing or only WEB processing (note that you cannot create an email domain without DNS since HestiaCP adds records to the zone for correct mail operation)
+11. Translations added/updated (**Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian**)
+12. Updated file manager code responsible for opening a specific domain folder ([don't forget to update the manager files](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/filemanager/filemanager_latest.zip))
+13. The files providing the API for the module have been updated if you want to use your own version ([don't forget to update the files to provide the API](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/filemanager/api/Filegator-api-for-HestiaCP-module-latest.zip))
+14. Optimized
+15. Fix some bugs
+
+- - - - - -
+
 ### v1.9.5 Released 10-10-2023
 1. Supported WHMCS v8.8.0
 2. Supported HestiaCP v1.8.8
