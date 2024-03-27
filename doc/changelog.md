@@ -2,6 +2,29 @@
 
 #####  [Order now](https://puqcloud.com/index.php?rp=/store/whmcs-module-hestiacp) | [Dowload](https://download.puqcloud.com/WHMCS/servers/PUQ_WHMCS-HestiaCP/) | [FAQ](https://faq.puqcloud.com/)
 
+### v1.9.7 Released 27-03-2024
+1. Added the ability to use name servers from the server settings
+2. Added the ability to calculate quotas, displayed in the package settings, such as:
+   - WEB Domains Usage
+   - WEB Aliases Usage
+   - DNS Domains Usage
+   - DNS Records Usage
+   - Email Domains Usage
+   - Email Accounts Usage
+   - Databases Usage
+   - Cron Jobs Usage
+   - Owned IP addresses
+   - Disk Usage (GB)
+   - Bandwidth Usage (GB)
+3. Added the ability to forward the server hostname to configure each instance of the package file manager on each server
+4. Changed the starting path for deploying the backup download script to `/home/admin/web/yourserver.hostname.com/public_html/dist/`
+5. Optimized the appearance of the main page and other pages in the client area
+6. Translations added/updated **(Arabic, Azerbaijani, Catalan, Chinese, Croatian, Czech, Danish, Dutch, English, Estonian, Farsi, French, German, Hebrew, Hungarian, Italian, Macedonian, Norwegian, Polish,  Romanian, Russian, Spanish, Swedish, Turkish, Ukrainian)**
+7. Optimized
+8. Fix some bugs
+
+- - - - - -
+
 ### v1.9.6 Released 19-03-2024
 1. Added the ability to go to the document root of each domain by clicking on the file manager on the domains card
 2. Removed the ability to connect more than two NS servers when creating a DNS zone
