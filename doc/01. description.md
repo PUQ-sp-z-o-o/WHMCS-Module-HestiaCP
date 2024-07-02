@@ -67,17 +67,17 @@ Available options in the client panel:
 
 >HestiaCP minimal version: 1 +
 
-![image](https://user-images.githubusercontent.com/81689153/231414590-450abe33-a200-424d-899f-644fcbe170aa.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-HestiaCP/assets/81689153/f9a1f13b-f024-43b8-b066-dab5cb9ca4f7)
 
-![image](https://user-images.githubusercontent.com/81689153/231414624-f7978a61-79f8-4fb1-aab0-423b709136a1.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-HestiaCP/assets/81689153/e07f4f61-f3d3-4590-aedb-b026492c5926)
 
-![image](https://user-images.githubusercontent.com/81689153/231414660-2cbdb06c-fdba-40f2-8344-4f0fe6e4c34d.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-HestiaCP/assets/81689153/212da47a-4a3c-4f92-b459-a89d13962a33)
 
-![image](https://user-images.githubusercontent.com/81689153/231414690-7f10bf5f-04df-4796-a590-b8cd0e47f3ff.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-HestiaCP/assets/81689153/f6cafd18-ba57-4139-b831-7082db102dc5)
 
-![image](https://user-images.githubusercontent.com/81689153/231414782-1c670577-35b3-4772-a27c-8caa6eb59c05.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-HestiaCP/assets/81689153/c7681ac8-7221-43b9-953f-8b56a0306770)
 
-![image](https://user-images.githubusercontent.com/81689153/231414834-be82d1da-d367-41a4-8f55-394bb26bb681.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-HestiaCP/assets/81689153/573c018c-a8d1-4d86-85dc-bf636893a892)
 
-![image](https://user-images.githubusercontent.com/81689153/231414880-6c7e11dd-989c-477d-885e-b4b22bc9726c.png)
+![image](https://github.com/PUQ-sp-z-o-o/WHMCS-Module-HestiaCP/assets/81689153/d0d30369-192a-41be-94c6-89e13bd43a46)
 
